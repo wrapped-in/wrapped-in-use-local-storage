@@ -1,5 +1,5 @@
 {
-  "name": "wrapped-in-use-localstorage",
+  "name": "wrapped-in-use-local-storage",
   "version": "1.0.0",
   "description": "React Hook for using Local Storage.",
   "main": "index.min.js",
