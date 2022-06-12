@@ -1,0 +1,15 @@
+{
+  "name": "wrapped-in-use-localstorage",
+  "version": "1.0.0",
+  "description": "React Hook for using Local Storage.",
+  "main": "index.min.js",
+  "keywords": [
+    "react",
+    "javasctipt",
+    "local-storage",
+    "react-hook",
+    "react-hooks"
+  ],
+  "author": "Wrapped-in",
+  "license": "MIT"
+}
